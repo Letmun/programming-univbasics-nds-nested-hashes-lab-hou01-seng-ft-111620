@@ -28,7 +28,7 @@ def aoh_lookup(aoh, row, key)
        {:name=>"Pat Monteseian", :occupation=>"Staff"},
        {:name=>"Kate Gompert", :occupation=>"None"},
        {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}]
-       result[0][:"Don Gately"]
+       result[2][:"Pat Monteseian"]
 end
 
 def aoh_update(aoh, row, key, new_value)
